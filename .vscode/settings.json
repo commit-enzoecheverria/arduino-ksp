@@ -1,3 +1,4 @@
 {
-    "python.defaultInterpreterPath": "/home/enzutaa/KSP-Arduino/.venv/bin/python"
+    "python.defaultInterpreterPath": "/home/enzutaa/Desktop/arduino-ksp/.venv/bin/python",
+    "python.terminal.activateEnvironment": true
 }
